@@ -6,7 +6,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFMLTemplate", "SFMLTemplat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFML", "SFML\SFML.vcxproj", "{0D9DFFE7-5BF2-448D-8639-0FE0BBB8230A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ApllesGame", "ApllesGame\ApllesGame.vcxproj", "{F51E5EED-1DF3-4DC1-A84C-9AECB8D84987}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnakeGame", "SnakeGame\SnakeGame.vcxproj", "{F51E5EED-1DF3-4DC1-A84C-9AECB8D84987}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
