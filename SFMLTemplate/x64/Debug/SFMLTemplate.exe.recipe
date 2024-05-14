@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Source\xyz-cpp-course-template-latest\SFMLTemplate\x64\Debug\SFMLTemplate.exe</FullPath>
+      <FullPath>D:\Source\Arcanoid\SFMLTemplate\x64\Debug\SFMLTemplate.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,1 +1,0 @@
-D:\Source\xyz-cpp-course-template-latest\SnakeGame\x64\Debug\Snake Game.exe

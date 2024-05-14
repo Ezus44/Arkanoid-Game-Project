@@ -1,2 +1,3 @@
 ﻿  GameMain.cpp
-  SFMLTemplate.vcxproj -> D:\Source\xyz-cpp-course-template-latest\SFMLTemplate\x64\Debug\SFMLTemplate.exe
+  LINK : не найден или не выполнена сборка D:\Source\Arcanoid\SFMLTemplate\\x64\Debug\SFMLTemplate.exe при последней инкрементной компоновке; выполняется полная компоновка
+  SFMLTemplate.vcxproj -> D:\Source\Arcanoid\SFMLTemplate\x64\Debug\SFMLTemplate.exe

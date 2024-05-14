@@ -1,0 +1,13 @@
+D:\Source\Arcanoid\SnakeGame\Application.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\Application.obj
+D:\Source\Arcanoid\SnakeGame\Ball.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\Ball.obj
+D:\Source\Arcanoid\SnakeGame\GameStateMainMenu.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\GameStateMainMenu.obj
+D:\Source\Arcanoid\SnakeGame\GameStatePause.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\GameStatePause.obj
+D:\Source\Arcanoid\SnakeGame\GameStateGameOver.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\GameStateGameOver.obj
+D:\Source\Arcanoid\SnakeGame\GameStatePlaying.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\GameStatePlaying.obj
+D:\Source\Arcanoid\SnakeGame\Game.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\Game.obj
+D:\Source\Arcanoid\SnakeGame\GameMain.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\GameMain.obj
+D:\Source\Arcanoid\SnakeGame\GameStateRecordsTable.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\GameStateRecordsTable.obj
+D:\Source\Arcanoid\SnakeGame\Menu.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\Menu.obj
+D:\Source\Arcanoid\SnakeGame\Player.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\Player.obj
+D:\Source\Arcanoid\SnakeGame\Sprite.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\Sprite.obj
+D:\Source\Arcanoid\SnakeGame\Text.cpp;D:\Source\Arcanoid\SnakeGame\x64\Debug\Text.obj

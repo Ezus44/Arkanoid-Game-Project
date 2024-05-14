@@ -1,0 +1,2 @@
+D:\Source\xyz-cpp-course-template-latest\SnakeGame\x64\Debug\Snake Game.exe
+D:\Source\Arcanoid\SnakeGame\x64\Debug\Arkanoid.exe

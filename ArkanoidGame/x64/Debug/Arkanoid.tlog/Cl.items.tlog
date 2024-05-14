@@ -1,0 +1,13 @@
+D:\Source\Arcanoid\ArkanoidGame\Application.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Application.obj
+D:\Source\Arcanoid\ArkanoidGame\Ball.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Ball.obj
+D:\Source\Arcanoid\ArkanoidGame\GameStateMainMenu.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\GameStateMainMenu.obj
+D:\Source\Arcanoid\ArkanoidGame\GameStatePause.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\GameStatePause.obj
+D:\Source\Arcanoid\ArkanoidGame\GameStateGameOver.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\GameStateGameOver.obj
+D:\Source\Arcanoid\ArkanoidGame\GameStatePlaying.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\GameStatePlaying.obj
+D:\Source\Arcanoid\ArkanoidGame\Game.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Game.obj
+D:\Source\Arcanoid\ArkanoidGame\GameMain.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\GameMain.obj
+D:\Source\Arcanoid\ArkanoidGame\GameStateRecordsTable.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\GameStateRecordsTable.obj
+D:\Source\Arcanoid\ArkanoidGame\Menu.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Menu.obj
+D:\Source\Arcanoid\ArkanoidGame\Player.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Player.obj
+D:\Source\Arcanoid\ArkanoidGame\Sprite.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Sprite.obj
+D:\Source\Arcanoid\ArkanoidGame\Text.cpp;D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Text.obj
