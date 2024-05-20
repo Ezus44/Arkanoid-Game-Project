@@ -1,17 +1,4 @@
 ﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (D:\Source\Arcanoid\ArkanoidGame\\x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ApllesGame.vcxproj, Snake Game.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  Application.cpp
-  Ball.cpp
-  GameStateMainMenu.cpp
-  GameStatePause.cpp
-  GameStateGameOver.cpp
-  GameStatePlaying.cpp
-  Game.cpp
-  GameMain.cpp
-  GameStateRecordsTable.cpp
-  Menu.cpp
   Player.cpp
-  Sprite.cpp
-  Text.cpp
-  Создание кода...
 D:\Source\Arcanoid\ArkanoidGame\Player.cpp(75): warning C4172: возвращение адреса локальной или временной переменной : result
   ArkanoidGame.vcxproj -> D:\Source\Arcanoid\ArkanoidGame\x64\Debug\Arkanoid.exe

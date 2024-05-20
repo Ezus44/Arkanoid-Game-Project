@@ -7,7 +7,7 @@
 namespace Arkanoid
 {
 
-	void Ball::InitBall()
+	Ball::Ball()
 	{
         position = { (float)SCREEN_WIDTH / 2.f, (float)SCREEN_HEIGHT / 2.f };
         speed = { 0.f, INITIAL_SPEED };
@@ -18,6 +18,7 @@ namespace Arkanoid
 		ballShape.setPosition(position);
 		ballShape.setFillColor(sf::Color::Red);
 	}
+    
 	void Ball::MoveBall(float timeDelta)
 	{
 

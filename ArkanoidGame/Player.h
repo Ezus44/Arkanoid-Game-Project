@@ -15,7 +15,8 @@ namespace Arkanoid
 	class Player
 	{
 	public:
-		void InitPlayer();
+		Player();
+		~Player() = default;
 		void MovePlayer(float timeDelta);
 		void DrawPlayer(sf::RenderWindow& window);
 

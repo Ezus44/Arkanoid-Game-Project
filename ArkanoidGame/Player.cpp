@@ -6,7 +6,7 @@
 namespace Arkanoid
 {
 
-	void Player::InitPlayer()
+	Player::Player()
 	{
 		playerPosition = { (float)SCREEN_WIDTH / 2.f, (float)SCREEN_HEIGHT - PLAYER_SIZE };
 		playerShape.setSize(sf::Vector2f(PLAYER_SIZE * 4, PLAYER_SIZE));
@@ -19,7 +19,7 @@ namespace Arkanoid
 	void Player::MovePlayer(float timeDelta)
 	{
 		float shift = speed * timeDelta;
-		const sf::Vector2f directionVector = GetDirectionVector(GetPlayerDirection()) * shift / PLAYER_SIZE;
+		const sf::Vector2f directionVector = GetDirectionVector(GetPlayerDirection()) * shift;
 		playerPosition = playerShape.getPosition() + directionVector;
 		playerShape.setPosition(playerPosition); 
 
@@ -83,12 +83,12 @@ namespace Arkanoid
 		{
 		case PlayerDirection::Right:
 		{
-			result = { PLAYER_SIZE, 0.f };
+			result = { 1.f, 0.f };
 			break;
 		}
 		case PlayerDirection::Left:
 		{
-			result = { -PLAYER_SIZE, 0.f };
+			result = { -1.f, 0.f };
 			break;
 		}
 		}

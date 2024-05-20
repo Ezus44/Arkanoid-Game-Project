@@ -20,13 +20,7 @@ namespace Arkanoid
 
 		loseSound.setBuffer(loseBuffer);
 		hitSound.setBuffer(hitBuffer);
-		music.setLoop(true);
-
-		// Init player
-		player.InitPlayer();
-		ball.InitBall();
-
-		
+		music.setLoop(true);		
 
 		if (Application::Instance().GetGame().IsEnableOptions(GameOptions::Music)) 
 		{

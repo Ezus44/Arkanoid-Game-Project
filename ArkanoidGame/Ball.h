@@ -11,8 +11,8 @@ namespace Arkanoid
 	{
     public:
         
-        void InitBall();
-
+        Ball();
+		~Ball() = default;
 		void MoveBall(float timeDelta);
 		bool HasBallCollisionWithWall();
 		void HandleWallCollision();
